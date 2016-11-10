@@ -8,3 +8,5 @@ The idea is :
  - Are you consuming more than the recommended portions of your food?
 * To provide spending analytics on consumption
  - Are you spending too much on premium products?
+### Workflow ###
+![Alt text](workflow.jpg?raw=true)
