@@ -9,4 +9,4 @@ The idea is :
 * To provide spending analytics on consumption
  - Are you spending too much on premium products?
 ### Workflow ###
-![Alt text](workflow.jpg?raw=true)
+![Alt text](/workflow.jpg?raw=true)
